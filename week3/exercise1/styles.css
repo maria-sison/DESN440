@@ -1,0 +1,18 @@
+@font-face {
+    font-family: chromatica;
+    src: url(assets/fonts/ChromaticaTrial/ChromaticaTrial-Regular.otf)
+}
+
+@font-face {
+    font-family: hellenic;
+    src: url(assets/fonts/HellenicTypewriterTrial/HellenicTypewriterTrial-Regular.otf)
+}
+
+* {
+    font-family: chromatica;
+
+}
+
+.title {
+    color: green;
+}
